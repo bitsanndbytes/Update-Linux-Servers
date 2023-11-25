@@ -1,6 +1,7 @@
 [Timer]
-Unit=kiiolabs.service
+Unit=whatevername.service
 OnCalendar=*-*-14
+#this runs every 14th of the month. adjust to your needs
 
 [Install]
 WantedBy=timers.target
