@@ -1,0 +1,5 @@
+[Unit]
+Description=Update linux servers
+
+[Service]
+ExecStart=Path to bash-script to update servers

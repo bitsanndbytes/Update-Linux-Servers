@@ -1,0 +1,6 @@
+[Timer]
+Unit=kiiolabs.service
+OnCalendar=*-*-14
+
+[Install]
+WantedBy=timers.target
